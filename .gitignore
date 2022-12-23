@@ -1,2 +1,8 @@
 # Virtual Env folder
 /python_packages
+
+# Dir where mp3 files are saved
+/src/mp3_files
+
+# Dir where pdf files are picked up
+/src/pdf_files
